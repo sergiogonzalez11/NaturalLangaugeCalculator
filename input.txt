@@ -1,0 +1,5 @@
+the square root of 16;
+one times 42;
+what is 4 plus 4;
+absolute value of -10;
+four goes into four;
